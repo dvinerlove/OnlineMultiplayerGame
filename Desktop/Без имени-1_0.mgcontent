@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/games/Project1/Project2/Content/../../../../Desktop/Без имени-1.png</SourceFile>
+  <SourceTime>2020-10-23T01:38:52.0493216+03:00</SourceTime>
+  <DestFile>E:/games/Project1/Project2/Content/bin/DesktopGL/../../../../Desktop/Без имени-1_0.xnb</DestFile>
+  <DestTime>2021-10-11T01:00:46.3329302+03:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2020-08-10T19:17:54+03:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2020-08-10T19:17:54+03:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>0,0,0,0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
